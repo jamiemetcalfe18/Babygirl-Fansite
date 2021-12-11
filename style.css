@@ -88,6 +88,9 @@ footer {
     font-size: x-large;
   }
 
+  h2 {
+    font-size: large;
+  }
   img {
     border: #242D47 5px solid;
   }
@@ -104,6 +107,10 @@ footer {
 
   h1 {
     font-size: large;
+  }
+
+  h2 {
+    font-size: medium;
   }
 
   img {
