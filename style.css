@@ -5,7 +5,7 @@ body, header, main, footer, img, h1, ul, figure, figcaption {
     border: 0;   
 }
 
-/*style rules for image*/
+/* Syle rules for desktop and big screens */
 img {
     max-width: 40%;
     display: block;
@@ -17,7 +17,7 @@ img {
 #img-fig {
   padding: 10px;
 }
-/* non-image non-media query styles */
+
 body {
   background-color: #19C9FA;
 }
@@ -31,7 +31,7 @@ body {
 
 h1 {
     color: #002B38;
-    scale: auto;
+    font-size: xxx-large;
 }
 
 h2 {
@@ -46,6 +46,7 @@ ul {
 
 li {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: block;
 }
 
 p{
@@ -58,12 +59,21 @@ footer {
     display: block;
     padding: 10px;
     margin: 10px;
-    float: bottom;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /*Style rules for tablet viewport*/
-@media screen and (min-width: 800px), print{
+@media screen and (max-width: 1024px) {
+  .container {
+    padding-left:  20px;
+    padding-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  img {
+    border: #242D47 5px solid;
+  }
 }
 
 /* Style rules for mobile viewport */
