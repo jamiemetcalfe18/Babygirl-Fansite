@@ -6,5 +6,14 @@ and responds to different sizes!
 
 I love my dog a lot so a fansite for her was really fitting.
 
-I started this on 11/26/2021!
-Last modified: 12/5/2021!
+## Purpose Of This Project
+The purpose of this project was to showcase my basic html and css skills, as well as responsive design for my final in my web foundations I class.
+
+## What I Learned
+-Got better and more confident with media queries!
+-Small CSS things, like making sure to set margings, borders, and padding
+-Making sure to use appropriate color schemes.
+
+## Modifications:
+-Started on: 11/26/2021
+-Last modified: 12/21/2021
