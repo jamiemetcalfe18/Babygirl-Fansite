@@ -11,9 +11,7 @@ The purpose of this project was to showcase my basic html and css skills, as wel
 
 ## What I Learned
 -Got better and more confident with media queries!
--Small CSS things, like making sure to set margings, borders, and padding
--Making sure to use appropriate color schemes.
 
-## Modifications:
--Started on: 11/26/2021
--Last modified: 12/21/2021
+-Small CSS things, like making sure to set margings, borders, and padding
+
+-Making sure to use appropriate color schemes.
